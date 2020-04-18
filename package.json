@@ -4,8 +4,9 @@
   "description": "Word game Nodejs",
   "main": "index.js",
   "dependencies": {
-    "colors": "1.4.0",
-    "inquirer": "7.1.0"
+    "color": "^3.1.2",
+    "colors": "^1.4.0",
+    "inquirer": "^7.1.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,8 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eiland-J/WordGuess"
+    "url": "git+https://github.com/Eiland-J/WordGuess.git"
   },
   "author": "Joewan Eiland",
-  "license": "JEIland Inc"
+  "license": "JEIland Inc",
+  "bugs": {
+    "url": "https://github.com/Eiland-J/WordGuess/issues"
+  },
+  "homepage": "https://github.com/Eiland-J/WordGuess#readme",
+  "keywords": []
 }
