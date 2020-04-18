@@ -1,0 +1,20 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "Word game Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "1.4.0",
+    "inquirer": "7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eiland-J/WordGuess"
+  },
+  "author": "Joewan Eiland",
+  "license": "JEIland Inc"
+}
